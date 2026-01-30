@@ -31,7 +31,7 @@ The system consists of:
 
 ## Tools & Technologies (Design Level)
 - Embedded systems concepts  
-- AI/ML concepts for fire and smoke detection  
+- AI concepts for fire and smoke detection  
 - Drone technology fundamentals  
 - System architecture and workflow design  
 - GitHub for documentation and version control  
